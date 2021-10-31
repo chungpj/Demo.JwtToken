@@ -64,7 +64,7 @@ namespace JWTAuth
                     Scheme = "Bearer",
                     BearerFormat = "JWT",
                     In = ParameterLocation.Header,
-                    Description = "Enter `Bearer`[space] and tehen your valid token in the text input below"
+                    Description = "Enter `Bearer`[space] and then your valid token in the text input below"
                 });
                 c.AddSecurityRequirement(new OpenApiSecurityRequirement
                 {
