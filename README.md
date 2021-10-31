@@ -4,10 +4,10 @@ Asp.Net Core Web API JWT Authentication and Authorization
 
 ## Project List:
 ### 1. Asp.Net Core Web API
-see demo with swagger ui
+demo with swagger ui
 
 > #### Getting started
-> 1. Clone this repository:
+1. Clone this repository:
 ```
 ---
 git clone https://github.com/chungpj/Demo.JwtToken.git
